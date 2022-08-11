@@ -1,0 +1,2388 @@
+Uri: https://www.designmajesty.com/
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\index.htm
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\css\vendor\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/assets/css/main.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\css\main.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/assets/css/vendor/slider.min.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\css\vendor\slider.min.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/assets/css/vendor/icons.min.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\css\vendor\icons.min.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/assets/css/vendor/animation.min.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\css\vendor\animation.min.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/assets/css/vendor/gallery.min.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\css\vendor\gallery.min.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/css/all.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\css\all.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/assets/css/default.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\css\default.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/assets/css/theme-pink.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\css\theme-pink.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/assets/owl/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\owl\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/assets/css/custom.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\css\custom.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/assets/css/progressive-image.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\css\progressive-image.css
+Content Type: text/css
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/ico.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\ico.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/about
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\about.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/logo-design
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\logo-design.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/logo-and-branding
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\logo-and-branding.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/web-design
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\web-design.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/video-animation
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\video-animation.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/portfolio
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\portfolio.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/pricing
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\pricing.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/contact
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\contact.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/1_cTVKd_AFv.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\1_cTVKd_AFv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/1.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/2_BVAvLFBXV3.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\2_BVAvLFBXV3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/2.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/3_vxqdS2aVuI.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\3_vxqdS2aVuI.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/3-big.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\3-big.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/4_5mDFvM5CNj.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\4_5mDFvM5CNj.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/4.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\4.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/5_bDAX9wCix5.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\5_bDAX9wCix5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/5.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\5.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/6_zFDUkBw7eT.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\6_zFDUkBw7eT.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/6.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\6.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/7_G4ZXd1Q5rh.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\7_G4ZXd1Q5rh.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/7.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\7.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/8_-3joTtinou.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\8_-3joTtinou.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/8.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\8.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/9_Sdp-T9NjA.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\9_Sdp-T9NjA.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/9.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\9.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/10_02vbAGJs2-.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\10_02vbAGJs2-.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/10.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\10.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo/14_SPyombMrCb.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo\14_SPyombMrCb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/logo/14.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\logo\14.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo/8_U4ZwsZRrTV.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo\8_U4ZwsZRrTV.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/logo/8.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\logo\8.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo/2_2FawP3QTjf.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo\2_2FawP3QTjf.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/logo/2.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\logo\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo/3_YovCXX-j_i.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo\3_YovCXX-j_i.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/logo/3.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\logo\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/27.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\27.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/logo/27.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\logo\27.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/24.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\24.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/logo/24.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\logo\24.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/25.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/logo/25.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\logo\25.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/26.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\26.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/logo/26.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\logo\26.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/1_wreY0dFPT.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\1_wreY0dFPT.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/branding/1.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\branding\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/2_izsQSJ3V0h.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\2_izsQSJ3V0h.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/branding/2.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\branding\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/3_wWg1xTrKTE.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\3_wWg1xTrKTE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/branding/3.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\branding\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/4_QfxRHOcZLy.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\4_QfxRHOcZLy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/branding/4.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\branding\4.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/5_fhbe1vISLf.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\5_fhbe1vISLf.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/branding/5.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\branding\5.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/6_MbUTI8Oxsf.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\6_MbUTI8Oxsf.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/branding/6.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\branding\6.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/7_-sPMjIg-o7.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\7_-sPMjIg-o7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/branding/7.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\branding\7.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/8_d-EOekhP-N.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\8_d-EOekhP-N.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/branding/8.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\branding\8.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/9_p3-irLvm2a.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\9_p3-irLvm2a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/branding/9.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\branding\9.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/10_p9VTVHfGzP.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\10_p9VTVHfGzP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/branding/10.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\branding\10.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/1_2cFI6ewVY5.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\1_2cFI6ewVY5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/website/1-big.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\website\1-big.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/2_gUtSfCs_5.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\2_gUtSfCs_5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/website/2-big.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\website\2-big.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/3_nH-K396h7s.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\3_nH-K396h7s.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/website/3-big.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\website\3-big.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/4_NRnvgrai04.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\4_NRnvgrai04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/website/4-big.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\website\4-big.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/5_hPWHizEq98.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\5_hPWHizEq98.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/website/5-big.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\website\5-big.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/6_B-Gv6g-CFB.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\6_B-Gv6g-CFB.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/7_AGa1SMzjov.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\7_AGa1SMzjov.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/8_botG18SY5O.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\8_botG18SY5O.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/website/8-big.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\website\8-big.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/9_bYponuG1B.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\9_bYponuG1B.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/website/9-big.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\website\9-big.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/10_RY1QR_2FO9.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\10_RY1QR_2FO9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/website/10-big.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\website\10-big.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/1_RcSUFaI6Va.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\1_RcSUFaI6Va.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=n9RQ2f_GO8k
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/2_f9eqb4172p.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\2_f9eqb4172p.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=6v3A6N5Q7QU
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-1.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/3_zqqQwyrwgl.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\3_zqqQwyrwgl.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=4m7enLJDzZo
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-2.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/4_ZQEuVQ0TY.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\4_ZQEuVQ0TY.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=una04IsJk9k
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-3.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/5__9TSdhT25B.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\5__9TSdhT25B.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=ddJGk-yBH8U
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-4.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/10_hzYYWJ8wFe.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\10_hzYYWJ8wFe.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=1flSt0CpJo0
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-5.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/6_pWeCx1VvrH.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\6_pWeCx1VvrH.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=Rph99R3uY4o
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-6.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/7_lb4QzgfQsv.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\7_lb4QzgfQsv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=AJIflt-vFqM
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-7.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/8_GvfFlB6kGh.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\8_GvfFlB6kGh.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=Bux7e2b8Ajk
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-8.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/9_A89T9iAE2C.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\9_A89T9iAE2C.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=BVgSob-ca6k
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-9.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/terms-and-condition
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\terms-and-condition.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/privacy-policy
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/assets/js/vendor/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\js\vendor\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/logo-w.svg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\logo-w.svg
+Content Type: image/svg+xml
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/logo-b.svg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\logo-b.svg
+Content Type: image/svg+xml
+
+Uri: https://www.designmajesty.com/assets/images/menu/logo.svg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\menu\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.designmajesty.com/assets/images/menu/branding.svg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\menu\branding.svg
+Content Type: image/svg+xml
+
+Uri: https://www.designmajesty.com/assets/images/menu/website.svg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\menu\website.svg
+Content Type: image/svg+xml
+
+Uri: https://www.designmajesty.com/assets/images/menu/video.svg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\menu\video.svg
+Content Type: image/svg+xml
+
+Uri: https://www.designmajesty.com/assets/images/banner/banner1.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\banner\banner1.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/assets/images/banner/banner2.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\banner\banner2.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/assets/images/banner/banner3.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\banner\banner3.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/new/tr:w-555,h-451/about1_q_LiGg8G6.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\new\trw-555,h-451\about1_q_LiGg8G6.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/new/s1.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\new\s1.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/new/s1-w.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\new\s1-w.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/new/s2.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\new\s2.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/new/s2-w.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\new\s2-w.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/new/s3.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\new\s3.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/new/s3-w.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\new\s3-w.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/new/s4.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\new\s4.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/new/s4-w.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\new\s4-w.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/new/service1.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\new\service1.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/new/tr:w-540,h-366/service2_f6xgv0659o.png?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\new\trw-540,h-366\service2_f6xgv0659o.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/new/tr:w-540,h-366/service3_V_yRK4tObI.png?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\new\trw-540,h-366\service3_V_yRK4tObI.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/new/tr:w-540,h-366/service4_MZKGfHIjhJ.png?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\new\trw-540,h-366\service4_MZKGfHIjhJ.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/1_cTVKd_AFv.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\1_cTVKd_AFv-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/2_BVAvLFBXV3.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\2_BVAvLFBXV3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/3_vxqdS2aVuI.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\3_vxqdS2aVuI-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/4_5mDFvM5CNj.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\4_5mDFvM5CNj-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/5_bDAX9wCix5.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\5_bDAX9wCix5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/6_zFDUkBw7eT.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\6_zFDUkBw7eT-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/7_G4ZXd1Q5rh.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\7_G4ZXd1Q5rh-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/8_-3joTtinou.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\8_-3joTtinou-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/9_Sdp-T9NjA.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\9_Sdp-T9NjA-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/10_02vbAGJs2-.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\10_02vbAGJs2--1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/1_wreY0dFPT.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\1_wreY0dFPT-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/2_izsQSJ3V0h.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\2_izsQSJ3V0h-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/3_wWg1xTrKTE.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\3_wWg1xTrKTE-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/4_QfxRHOcZLy.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\4_QfxRHOcZLy-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/5_fhbe1vISLf.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\5_fhbe1vISLf-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/6_MbUTI8Oxsf.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\6_MbUTI8Oxsf-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/7_-sPMjIg-o7.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\7_-sPMjIg-o7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/8_d-EOekhP-N.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\8_d-EOekhP-N-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/9_p3-irLvm2a.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\9_p3-irLvm2a-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/branding-small/10_p9VTVHfGzP.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\branding-small\10_p9VTVHfGzP-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/1_2cFI6ewVY5.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\1_2cFI6ewVY5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/2_gUtSfCs_5.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\2_gUtSfCs_5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/3_nH-K396h7s.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\3_nH-K396h7s-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/4_NRnvgrai04.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\4_NRnvgrai04-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/5_hPWHizEq98.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\5_hPWHizEq98-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/6_B-Gv6g-CFB.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\6_B-Gv6g-CFB-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/7_AGa1SMzjov.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\7_AGa1SMzjov-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/8_botG18SY5O.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\8_botG18SY5O-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/9_bYponuG1B.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\9_bYponuG1B-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/10_RY1QR_2FO9.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\10_RY1QR_2FO9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/1_RcSUFaI6Va.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\1_RcSUFaI6Va-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/2_f9eqb4172p.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\2_f9eqb4172p-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/3_zqqQwyrwgl.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\3_zqqQwyrwgl-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/4_ZQEuVQ0TY.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\4_ZQEuVQ0TY-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/5__9TSdhT25B.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\5__9TSdhT25B-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/10_hzYYWJ8wFe.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\10_hzYYWJ8wFe-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/6_pWeCx1VvrH.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\6_pWeCx1VvrH-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/7_lb4QzgfQsv.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\7_lb4QzgfQsv-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/8_GvfFlB6kGh.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\8_GvfFlB6kGh-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/9_A89T9iAE2C.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\9_A89T9iAE2C-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/recognize.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\recognize.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/new/testi4.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\new\testi4.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/team-1.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/new/testi2.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\new\testi2.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/team-2.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/new/testi3.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\new\testi3.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/team-3.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/contact/1_dqaIRTTgs.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\contact\1_dqaIRTTgs.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/contact/2_cMHSY2N9Wz.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\contact\2_cMHSY2N9Wz.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/logo-footer.svg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\logo-footer.svg
+Content Type: image/svg+xml
+
+Uri: https://www.designmajesty.com/assets/images/logo-b.svg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\logo-b.svg
+Content Type: image/svg+xml
+
+Uri: https://www.designmajesty.com/assets/js/vendor/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\js\vendor\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://www.designmajesty.com/assets/js/vendor/jquery.inview.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\js\vendor\jquery.inview.min.js
+Content Type: application/javascript
+
+Uri: https://www.designmajesty.com/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\js\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.designmajesty.com/assets/js/vendor/animation.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\js\vendor\animation.min.js
+Content Type: application/javascript
+
+Uri: https://www.designmajesty.com/assets/js/vendor/progress-radial.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\js\vendor\progress-radial.min.js
+Content Type: application/javascript
+
+Uri: https://www.designmajesty.com/assets/js/vendor/bricklayer.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\js\vendor\bricklayer.min.js
+Content Type: application/javascript
+
+Uri: https://www.designmajesty.com/assets/js/vendor/gallery.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\js\vendor\gallery.min.js
+Content Type: application/javascript
+
+Uri: https://www.designmajesty.com/assets/js/vendor/shuffle.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\js\vendor\shuffle.min.js
+Content Type: application/javascript
+
+Uri: https://www.designmajesty.com/assets/js/vendor/cookie-notice.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\js\vendor\cookie-notice.min.js
+Content Type: application/javascript
+
+Uri: https://www.designmajesty.com/assets/js/main.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.designmajesty.com/assets/owl/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\owl\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/progressive-image.js/dist/progressive-image.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\npm\progressive-image.js\dist\progressive-image.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\css.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/assets/fonts/icons/Icons-Lineb26c.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\icons\Icons-Lineb26c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.designmajesty.com/assets/fonts/icons/Icons-Lineb26c.html?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\icons\Icons-Lineb26c.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/assets/fonts/icons/Icons-Lineb26c.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\icons\Icons-Lineb26c.ttf
+Content Type: font/ttf
+
+Uri: https://www.designmajesty.com/assets/fonts/icons/Icons-Lineb26c.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\icons\Icons-Lineb26c.woff
+Content Type: font/woff
+
+Uri: https://www.designmajesty.com/assets/fonts/icons/Icons-Lineb26c-2.html?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\icons\Icons-Lineb26c-2.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/assets/fonts/gallery/Galleryd641.eot?n1z373
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\gallery\Galleryd641.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.designmajesty.com/assets/fonts/gallery/Galleryd41d.eot?
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\gallery\Galleryd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.designmajesty.com/assets/fonts/gallery/Galleryd641.woff?n1z373
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\gallery\Galleryd641.woff
+Content Type: font/woff
+
+Uri: https://www.designmajesty.com/assets/fonts/gallery/Galleryd641.ttf?n1z373
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\gallery\Galleryd641.ttf
+Content Type: font/ttf
+
+Uri: https://www.designmajesty.com/assets/fonts/gallery/Galleryd641.svg?n1z373
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\gallery\Galleryd641.svg
+Content Type: image/svg+xml
+
+Uri: https://www.designmajesty.com/assets/images/favicon.ico
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.designmajesty.com/assets/images/loading.gif
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\loading.gif
+Content Type: image/gif
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.designmajesty.com/assets/fonts/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.designmajesty.com/assets/owl/css/owl.video.play.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\owl\css\owl.video.play.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/assets/images/pencil.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\pencil.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/banner/about.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\banner\about.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/new/about1_q_LiGg8G6.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\new\about1_q_LiGg8G6.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/workflow/1.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\workflow\1.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/workflow/2.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\workflow\2.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/workflow/3.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\workflow\3.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/assets/js/vendor/slider.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\js\vendor\slider.min.js
+Content Type: application/javascript
+
+Uri: https://www.designmajesty.com/assets/js/vendor/ponyfill.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\js\vendor\ponyfill.min.js
+Content Type: application/javascript
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/branding/1.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\branding\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/branding/2.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\branding\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/branding/3.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\branding\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/branding/4.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\branding\4.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/branding/5.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\branding\5.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/branding/6.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\branding\6.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/branding/7.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\branding\7.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/branding/8.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\branding\8.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/branding/9.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\branding\9.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/branding/10.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\branding\10.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/banner/1.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\banner\1.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/banner/2.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\banner\2.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/banner/3.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\banner\3.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/banner/4.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\banner\4.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/logosideimg.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\logosideimg.jpg.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/all-samll/1.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\all-samll\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/all-samll/2.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\all-samll\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/branding-small/9.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\branding-small\9.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/all-samll/4.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\all-samll\4.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/all-samll/5.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\all-samll\5.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/all-samll/6.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\all-samll\6.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/all-samll/7.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\all-samll\7.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/all-samll/8.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\all-samll\8.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/all-samll/9.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\all-samll\9.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/all-samll/10.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\all-samll\10.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo/14_SPyombMrCb.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo\14_SPyombMrCb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo/8_U4ZwsZRrTV.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo\8_U4ZwsZRrTV-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo/2_2FawP3QTjf.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo\2_2FawP3QTjf-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo/3_YovCXX-j_i.jpg?tr=bl-30,q-50
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo\3_YovCXX-j_i-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/27.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\27-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/24.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\24-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/25.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\25-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/26.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\26-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/promotional.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\promotional.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/1_DRf7PNYzc.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\1_DRf7PNYzc.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/2_srdaiUhIlT.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\2_srdaiUhIlT.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/3_q2h8nq_m63.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\3_q2h8nq_m63.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/3.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/4_oU91KLy-hJ.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\4_oU91KLy-hJ.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/5_Yj7bpFHG2_.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\5_Yj7bpFHG2_.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/6_dExuaaRGH.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\6_dExuaaRGH.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/7_lJpWYlLl-p.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\7_lJpWYlLl-p.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/8_Ulrg87WWkm.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\8_Ulrg87WWkm.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/9_O2CxtuKIkS.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\9_O2CxtuKIkS.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/10_SufUriXbUQ.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\10_SufUriXbUQ.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/lb/banner.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\lb\banner.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/assets/images/lb/side-section.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\lb\side-section.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/assets/images/lb/logo-types/1.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\lb\logo-types\1.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/assets/images/lb/logo-types/2.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\lb\logo-types\2.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/assets/images/lb/logo-types/3.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\lb\logo-types\3.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/assets/images/lb/logo-types/4.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\lb\logo-types\4.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/1_DRf7PNYzc.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\1_DRf7PNYzc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/2_srdaiUhIlT.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\2_srdaiUhIlT-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/3_q2h8nq_m63.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\3_q2h8nq_m63-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/4_oU91KLy-hJ.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\4_oU91KLy-hJ-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/5_Yj7bpFHG2_.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\5_Yj7bpFHG2_-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/6_dExuaaRGH.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\6_dExuaaRGH-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/7_lJpWYlLl-p.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\7_lJpWYlLl-p-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/8_Ulrg87WWkm.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\8_Ulrg87WWkm-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/9_O2CxtuKIkS.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\9_O2CxtuKIkS-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/10_SufUriXbUQ.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\10_SufUriXbUQ-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/new/red-img.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\new\red-img.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/assets/images/workflow/1.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\workflow\1.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/assets/images/workflow/2.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\workflow\2.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/assets/images/workflow/3.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\workflow\3.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/1.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/2.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/3_jPBw3jEpD.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\3_jPBw3jEpD.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/4_rAiIe8sqP2.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\4_rAiIe8sqP2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/5_GB06E8S66V.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\5_GB06E8S66V.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/assets/images/portfolio/website/5-big.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\portfolio\website\5-big.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/6_frEctrEVT.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\6_frEctrEVT.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/7.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\7.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/8_JJYcHtILs-.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\8_JJYcHtILs-.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/9_tdfQ6AAMmJ.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\9_tdfQ6AAMmJ.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/10_K07eWggfAs.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\10_K07eWggfAs.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/web/banner2.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\web\banner2.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/web/tr:w-638,h-400/side-section.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\web\trw-638,h-400\side-section.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/web/web-types/tr:w-702,h-356/1.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\web\web-types\trw-702,h-356\1.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/web/web-types/2.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\web\web-types\2.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/web/web-types/3.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\web\web-types\3.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/web/web-types/4.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\web\web-types\4.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/1.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/2.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/3_jPBw3jEpD.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\3_jPBw3jEpD-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/4_rAiIe8sqP2.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\4_rAiIe8sqP2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/5_GB06E8S66V.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\5_GB06E8S66V-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/6_frEctrEVT.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\6_frEctrEVT-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/7.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/8_JJYcHtILs-.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\8_JJYcHtILs--1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/9_tdfQ6AAMmJ.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\9_tdfQ6AAMmJ-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/10_K07eWggfAs.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\10_K07eWggfAs-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=6lvHwBYAlfY
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-10.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/2d/8.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\2d\8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=QEFOc3wCLeM
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-11.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/2d/4.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\2d\4.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/2d/2.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\2d\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/2d/9.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\2d\9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=c6bGi6UhyvU
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-12.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/2d/3.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\2d\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/3d/1.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\3d\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/3d/2.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\3d\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/3d/3.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\3d\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/whiteboard/7.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\whiteboard\7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=XZq0n2K3r2w
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-13.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/whiteboard/6.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\whiteboard\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=8zTgCAWWm-M
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-14.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/whiteboard/3.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\whiteboard\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/whiteboard/2.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\whiteboard\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/2d/10.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\2d\10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=weR2BBl-xAQ
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-15.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/2d/6.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\2d\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=stfJaTUZCkw
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-16.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/2d/1.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\2d\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/2d/7.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\2d\7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=Rvc68RrPJq8
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-17.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/2d/5.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\2d\5.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/whiteboard/11.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\whiteboard\11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=6BJIA8X3fpU
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-18.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/whiteboard/9.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\whiteboard\9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=V0GEu2sGmYQ
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-19.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/whiteboard/8.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\whiteboard\8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=NhG5vT5ujRg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-20.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/whiteboard/5.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\whiteboard\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=9UtwwoUSDns
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-21.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/whiteboard/10.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\whiteboard\10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=wWw3yGfRQzw
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-22.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/whiteboard/4.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\whiteboard\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=lbmvf6lfSqI
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-23.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/banner-video.mp4
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\banner-video.mp4
+Content Type: video/mp4
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/new/service3_V_yRK4tObI.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\new\service3_V_yRK4tObI.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/2d-type.gif
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\2d-type.gif
+Content Type: image/gif
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/3d-type-v2.gif
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\3d-type-v2.gif
+Content Type: image/gif
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/whiteboard-type.gif
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\whiteboard-type.gif
+Content Type: image/gif
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/videopage/explainer---type.gif
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\videopage\explainer---type.gif
+Content Type: image/gif
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/banner/portfolio.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\banner\portfolio.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/1.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/1.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/2.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/2.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/3.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/3.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\3.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/4.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\4.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/4.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\4.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/5.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\5.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/5.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\5.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/6.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\6.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/6.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\6.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/7.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\7.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/7.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\7.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/8.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\8.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/8.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\8.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/9.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\9.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/9.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\9.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/10.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\10.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/10.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\10.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/website/1-big.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\website\1-big.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/website/2-big.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\website\2-big.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/website/3-big.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\website\3-big.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/website/5-big.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\website\5-big.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/website/8-big.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\website\8-big.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/website/9-big.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\website\9-big.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/website/10-big.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\website\10-big.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/2.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/5.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\5.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/6.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\6.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/12.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\12.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/12.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\12.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/11.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\11.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/11.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\11.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/1.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/14.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\14.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/14.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\14.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/15.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\15.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/15.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\15.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/16.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\16.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/16.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\16.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/17.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\17.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/17.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\17.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/18.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\18.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/18.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\18.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/19.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\19.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/19.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\19.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/20.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\20.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/20.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\20.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/21.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\21.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/21.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\21.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/22.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\22.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/22.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\22.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/27.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\27.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/24.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\24.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/25.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\25.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/26.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\26.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/23.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\23.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/23.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\23.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/28.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\28.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/28.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\28.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/29.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\29.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/30.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\30.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/31.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\31.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/32.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\32.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/33.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\33.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/34.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\34.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/35.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\35.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/36.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\36.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/38.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\38.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/37.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\37.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/39.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\39.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/41.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\41.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/40.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\40.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/42.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\42.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/43.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\43.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/44.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\44.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/45.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\45.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/47.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\47.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/46.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\46.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/48.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\48.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/49.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\49.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/50.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\50.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/51.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\51.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/53.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\53.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/52.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\52.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/54.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\54.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/55.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\55.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/56.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\56.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/58.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\58.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/57.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\57.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/63.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\63.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/60.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\60.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/61.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\61.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/62.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\62.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/59.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\59.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/64.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\64.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/65.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\65.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/66.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\66.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/67.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\67.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/68.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\68.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/69.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\69.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/70.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\70.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/71.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\71.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/72.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\72.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/73.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\73.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/74.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\74.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/75.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\75.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/76.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\76.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/77.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\77.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/78.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\78.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/79.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\79.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/82.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\82.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/81.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\81.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/80.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\80.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/83.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\83.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/1-big_QyVI1yzNlf.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\1-big_QyVI1yzNlf.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/2-big__0lrJfIN8n.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\2-big__0lrJfIN8n.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/3-big_r7tH_dNz9.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\3-big_r7tH_dNz9.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/4-big_QYkQT_K-dR.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\4-big_QYkQT_K-dR.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/5-big_e4fRLu86eG.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\5-big_e4fRLu86eG.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/6-big_samK008-n.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\6-big_samK008-n.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/7-big_YysZu6JwZ.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\7-big_YysZu6JwZ.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/8-big_TTQP2VQmnL.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\8-big_TTQP2VQmnL.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/9-big_hXDxgkFAlW.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\9-big_hXDxgkFAlW.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website/10-big_7XdAqKyxl7.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website\10-big_7XdAqKyxl7.png
+Content Type: image/png
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/11.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=6philoSeS2s
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-24.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/12.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=YoDTFD4K1GM
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-25.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/13.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=eiHOXI31D4Y
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-26.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/14.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=E-qY-CriKCI
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\watch-27.html
+Content Type: text/html
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/15.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\15.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/video/16.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\video\16.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/1_cTVKd_AFv.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\1_cTVKd_AFv-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/2_BVAvLFBXV3.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\2_BVAvLFBXV3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/3_vxqdS2aVuI.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\3_vxqdS2aVuI-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/4_5mDFvM5CNj.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\4_5mDFvM5CNj-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/5_bDAX9wCix5.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\5_bDAX9wCix5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/6_zFDUkBw7eT.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\6_zFDUkBw7eT-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/8_-3joTtinou.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\8_-3joTtinou-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/9_Sdp-T9NjA.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\9_Sdp-T9NjA-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/all-small/10_02vbAGJs2-.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\all-small\10_02vbAGJs2--2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/1.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/2.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/3.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/4.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/5.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/6.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/7.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/8.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/9.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/logo-small/10.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\logo-small\10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/1_2cFI6ewVY5.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\1_2cFI6ewVY5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/2_gUtSfCs_5.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\2_gUtSfCs_5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/3_nH-K396h7s.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\3_nH-K396h7s-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/4_NRnvgrai04.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\4_NRnvgrai04-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/5_hPWHizEq98.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\5_hPWHizEq98-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/6_B-Gv6g-CFB.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\6_B-Gv6g-CFB-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/7_AGa1SMzjov.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\7_AGa1SMzjov-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/8_botG18SY5O.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\8_botG18SY5O-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/9_bYponuG1B.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\9_bYponuG1B-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/portfolio/website-small/10_RY1QR_2FO9.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\portfolio\website-small\10_RY1QR_2FO9-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/66.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\66-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/portfolio/logo/67.jpg?tr=bl-30,q-35
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\portfolio\logo\67-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/banner/pricing.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\banner\pricing.jpg
+Content Type: image/jpeg
+
+Uri: https://ik.imagekit.io/vyzbqqyztn/designmajesty/assets/images/banner/contact.jpg
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\vyzbqqyztn\designmajesty\assets\images\banner\contact.jpg
+Content Type: image/jpeg
+
+Uri: https://www.designmajesty.com/payment/paynow?token=7b574883bee87cdd79457c0db2aaa389cf08dc18
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/assets/ico.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\ico.png
+Content Type: image/png
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\bootstrap\4.3.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:400,400i&display=swap
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,600,700,800,900&display=swap
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\css-2.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/assets/fonts/web-fonts/style.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\web-fonts\style.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/intl-input/build/css/intlTelInput.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\intl-input\build\css\intlTelInput.css
+Content Type: text/css
+
+Uri: https://www.braintreegateway.com/merchants/yd27yfdzq222kq2t/verified
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\merchants\yd27yfdzq222kq2t\verified.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-WS2TPFM
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\ns.html
+Content Type: text/html
+
+Uri: https://s3.amazonaws.com/braintree-badges/braintree-badge-wide-dark.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\braintree-badges\braintree-badge-wide-dark.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/assets/images/checkout/moneyback.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\images\checkout\moneyback.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/jquery-3.3.1.slim.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\jquery-3.3.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\ajax\libs\popper.js\1.12.9\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://js.braintreegateway.com/web/dropin/1.6.1/js/dropin.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\web\dropin\1.6.1\js\dropin.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://www.designmajesty.com/assets/js/country_state.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\js\country_state.js
+Content Type: application/javascript
+
+Uri: https://www.designmajesty.com/intl-input/build/js/intlTelInput.min.js
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\intl-input\build\js\intlTelInput.min.js
+Content Type: application/javascript
+
+Uri: https://www.designmajesty.com/payment/paynow?token=a3d89b7afa15a038fcb027cd41df01338725f1dc
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-1.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=07b0a6bee6ca295dde35b179a23c342e491dec6d
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-2.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=41ecc1022418beb9b562f08fb350f94cee627ddb
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-3.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=dc77c5f91ffb2b963c11c6d2cb59da79d705281d
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-4.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=3b87c1279dab918e757495286ce32dd0e8c3f88b
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-5.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=c73194ae8aa4529f1e9cf0545bcac52ff02f9a8c
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-6.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=4caa545d7c59030d0f83526b82595ed686a533f8
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-7.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=0d8afdea2391f4ce8aa734712b45a58a189f0062
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-8.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=108615542a7dacd8a02a4906ea5d3b4c67cc79a4
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-9.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=53516d8cf09e41e23ade84ffc31057cbbfc831ef
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-10.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=bb2e81ce88b786446457716dbb222514c3989ec4
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-11.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=4a0b52d377014de2a0c164624a91430b8bb2c9b7
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-12.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=364dcc2315fd892a58e2e843198cf0d7ffeea1a5
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-13.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=1c79a64dd09731e84da998164fc223ffa9c17a90
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-14.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=49c79c6f9761a604bc6783941417a46cb6a2e4ca
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-15.html
+Content Type: text/html
+
+Uri: https://gists.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\mfd\09b70eb47474836f25a21660282ce0fd\raw\e06a670afcb2b861ed2ac4a1ef752d062ef6b46b\Gilroy.css
+Content Type: text/css
+
+Uri: https://www.designmajesty.com/payment/paynow?token=a522555df850b2154c100454b072ff75182b1721
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-16.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=1f958966291d72f92dee12b263f0891647ec8ab3
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-17.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=51f3444aa5253a0276f657472919d7fec8373555
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-18.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=1f92ea593501896c72b9146e7f67c776807872fe
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-19.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=d0645759687d2c45de5eb366309314428bd5c4a2
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-20.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=632ef77359a96e0e9903f49a204a0c5b60ba066c
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-21.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=72fac6049fb18614a2e17fc53e40dfaf34608bd4
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-22.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=2085ad34dbe88500adcb9ef262b3275a31596404
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-23.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/payment/paynow?token=5f0b335a75c9099e404612cacc9f51960f85eb3f
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\payment\paynow-24.html
+Content Type: text/html
+
+Uri: https://www.designmajesty.com/assets/fonts/web-fonts/fonts/icomoon.eot?2idffr
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\web-fonts\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.designmajesty.com/assets/fonts/web-fonts/fonts/icomoon.ttf?2idffr
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\web-fonts\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://www.designmajesty.com/assets/fonts/web-fonts/fonts/icomoon.woff?2idffr
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\web-fonts\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://www.designmajesty.com/assets/fonts/web-fonts/fonts/icomoon.svg?2idffr
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\assets\fonts\web-fonts\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.designmajesty.com/intl-input/build/img/flags.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\intl-input\build\img\flags.png
+Content Type: image/png
+
+Uri: https://www.designmajesty.com/intl-input/build/img/flags@2x.png
+File Name: C:\Downloaded Web Sites\www.designmajesty.com\intl-input\build\img\flags@2x.png
+Content Type: image/png
+
